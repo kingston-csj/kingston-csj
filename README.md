@@ -1,4 +1,6 @@
-# Your Repository Name
+### Hi my friends 👋
+-  I’m currently working as a game developer
+-  I’m currently use Java, Python, Javascript and so on.
 
 服务器开发者，分享一些游戏开发/web开发项目。  
 jforgame游戏服务器组件已发布到maven中央仓库，欢迎使用。  
