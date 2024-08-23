@@ -1,10 +1,9 @@
-### Hi my friends 👋
--  I’m currently working as a game developer
--  I’m currently use Java, Python, Javascript and so on.
+### Hi,  my friends 👋
+-  👨‍💼 I’m currently working as a game developer.
+-  🎉 I’m currently using Java, Python, Javascript and so on.
+-  😄 I’m happy to share some game development/web development projects.
+-  💬 If you encounter any issues during use, please feel free to raise questions and discuss.
 
-服务器开发者，分享一些游戏开发/web开发项目。  
-jforgame游戏服务器组件已发布到maven中央仓库，欢迎使用。  
-如果在使用过程中遇到问题，欢迎提出疑问以及讨论。
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingston-csj&show_icons=true&theme=onedark&hide=contribs,issues)
