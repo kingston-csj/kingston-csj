@@ -6,4 +6,4 @@
 
 
 ### GitHub Stats  
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=kingston-csj&show_icons=true&theme=onedark&hide=contribs,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingston-csj&show_icons=true&theme=onedark&hide=contribs,issues)
