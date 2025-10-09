@@ -4,6 +4,4 @@
 -  😄 I’m happy to share some game development/web development projects.
 -  💬 If you encounter any issues during use, please feel free to raise questions and discuss.
 
-
-### GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingston-csj&show_icons=true&theme=onedark&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingston-csj&show_icons=true&theme=onedark&hide=contribs,issues)
